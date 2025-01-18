@@ -154,14 +154,24 @@ Use this template to guide your session:
 
 ---
 
-### **Visual Representation**
-The DFA Framework is depicted as a **target diagram** with concentric circles:
-- Outer Circle: **Discover** (Blue, Magnifying Glass Icon).  
-- Middle Circle: **Focus** (Green, Target Icon).  
-- Inner Circle: **Act** (Orange, Arrow Icon).  
-- Centre Circle: **Action Plan** (Yellow, Star Icon).  
+### **Visual Representation**  
+The DFA Framework is illustrated as a **target diagram** with concentric circles, showing the flow of steps, inputs, and outputs:
+
+- **Outer Circle (Blue):** **Discover** step (Magnifying Glass Icon).  
+  - Input: *Problem Statement* (White) → Output: *Current Situation* (Blue).
+
+- **Middle Circle (Green):** **Focus** step (Target Icon).  
+  - Input: *Current Situation* (Blue) → Output: *Key Priorities* (Green).
+
+- **Inner Circle (Orange):** **Act** step (Lightning Bolt Icon).  
+  - Input: *Key Priorities* (Green) → Output: *Action Plan* (Orange).
+
+- **Centre Circle (Yellow):** Final **Action Plan (Orange)** (Star Icon).  
 
 ![DFA Framework Model](./resources/DFA-framework.png)
+
+**Facilitator Tip:**  
+Leverage the target diagram as a **visual facilitation tool** alongside or in place of the **DFA Framework Template**. As participants progress through each step, capture their inputs and outputs directly on the diagram using sticky notes or markers. For virtual sessions, use digital tools like Miro or MURAL to enable real-time collaboration. This method keeps the group engaged, enhances clarity, and creates a visual record of the session's progress.
 
 ---
 
