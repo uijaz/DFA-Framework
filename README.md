@@ -130,21 +130,17 @@ Once the action plan is underway, revisit the DFA Framework regularly to refine 
 ### **DFA Framework Template**
 Use this template to guide your session:
 
-|----------|-------------------|-------------------------------------------|---------|-------------------|-----------|-------|
 | Steps    | Inputs            | Questions                                 | Answers | Outputs           | Artifacts | Notes |
 |----------|-------------------|-------------------------------------------|---------|-------------------|-----------|-------|
 | Discover | Problem Statement | What’s the issue?                         |         | Current Situation |           |       |
 |          |                   | What do we want to achieve?               |         |                   |           |       |
-|----------|-------------------|-------------------------------------------|---------|-------------------|-----------|-------|
 | Focus    | Current Situation | What’s most important to address first?   |         | Key Priorities    |           |       |
 |          |                   | What can we realistically achieve now?    |         |                   |           |       |
 |          |                   | What’s the impact of addressing this now? |         |                   |           |       |
-|----------|-------------------|-------------------------------------------|---------|-------------------|-----------|-------|
 | Act      | Key Priorities    | What one step can we take now?            |         | Action Plan       |           |       |
 |          |                   | What support do we need?                  |         |                   |           |       |
 |          |                   | How will we measure progress?             |         |                   |           |       |
 |          |                   | What will success look like?              |         |                   |           |       |
-|----------|-------------------|-------------------------------------------|---------|-------------------|-----------|-------|
 
 ---
 
