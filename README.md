@@ -1,40 +1,42 @@
 ### **Discover-Focus-Act (DFA) Framework**
 
-### **Overview**
-The **Discover-Focus-Act (DFA) Framework** is a practical tool for solving problems and creating actionable plans. Offering clear steps, flexibility, and impactful outcomes, it guides individuals, teams, or workshops through three key stages: Discover, Focus, and Act. This framework ensures **clarity**, **focus**, and **measurable results**. Ideal for sessions lasting 60 minutes or broken into smaller segments, DFA helps drive progress efficiently.
+### **Overview**  
+The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for problem-solving and creating actionable plans. It guides individuals, teams, or workshops through three clear stages: Discover, Focus, and Act, ensuring **clarity**, **focus**, and **measurable results**. Ideal for sessions of 60 minutes or divided into shorter segments, DFA drives progress efficiently.
 
 ---
 
-### **Why Choose the DFA Framework**  
-- Simple and intuitive, with no extensive training required.  
-- Clear steps and prompts to guide facilitators through actionable inquiry.  
-- Bridges the gap between problem analysis and actionable steps.  
-- Promotes clarity, measurable outcomes, and practical results.  
-- Fosters collaboration, alignment, and accountability.
+### **Why Choose DFA?**  
+- Easy to use, no extensive training required.  
+- Structured steps with prompts for actionable inquiry.  
+- Bridges the gap between problem analysis and concrete actions.  
+- Encourages clarity, measurable outcomes, and practical results.  
+- Promotes collaboration, alignment, and accountability.
 
 ---
 
-### **When to Use the DFA Framework**
-- Tackling complex problems.
-- Aligning teams on priorities.
-- Developing action plans for immediate implementation.
+### **When to Use DFA**  
+- Solving complex problems.  
+- Aligning teams on priorities.  
+- Developing actionable plans for immediate results.  
 - Suitable for both personal and professional contexts.
 
 ---
 
-### **Icebreaker Activity (5 Minutes - optional if problem is not yet understood)**
-**Purpose**: Energise participants and create a collaborative atmosphere to understand the problem.  
+### **Icebreaker Activity (5 Minutes - Optional)**  
+**Purpose**: Energise participants and clarify the problem.  
 **Instructions**:  
 - Ask: *“If this problem were a headline in tomorrow’s newspaper, what would it say?”*  
-- Let everyone share their headlines (funny, serious, or creative). This helps engage participants and sets a collaborative tone.  
-- Once all participants have shared, encourage everyone to agree on a headline that best captures the essence of the problem. This reinforces alignment on the issue and helps participants focus on the problem statement.  
+- Participants share their headlines (funny, serious, or creative).  
+- Agree on a headline that best captures the essence of the problem.  
 
-**Time-saving Alternative to Icebreaker**: If short on time, participants can silently brainstorm and write down a problem statement.
+**Note**: This activity is entirely optional and can be skipped if you're short on time or prefer a more focused start to the session.  
+
+**Time-saving Alternative**: If pressed for time, participants can silently brainstorm and write down a problem statement.
 
 **Output**: Problem Statement  
 
-**Transition to Discover**:  
-*“Now that we’ve identified our collective Problem Statement, let’s dive deeper to fully understand the problem and define what success looks like.”*
+**Transition**:  
+*“Now that we have our collective Problem Statement, let’s dive into understanding it better and defining what success looks like.”*
 
 ---
 
@@ -42,97 +44,96 @@ The **Discover-Focus-Act (DFA) Framework** is a practical tool for solving probl
 
 #### **1. Discover (20 Minutes)**  
 **Input**: Problem Statement  
-**Purpose**: Understand the problem and clarify desired outcomes.  
+**Purpose**: Gain a clear understanding of the problem and desired outcomes.  
 
 **Instructions**:  
-- Explore the issue from multiple perspectives to clarify the current situation and desired outcomes. Begin by defining the overarching problem, then deconstruct it into manageable components.  
-- Use the prompts to guide conversations and ensure a comprehensive understanding of the problem and what success looks like.  
+- Explore the issue from different perspectives to clarify the situation and desired outcomes. Break the problem into manageable components.  
+- Use prompts to guide the discussion and ensure a thorough understanding.  
 
 **Prompts**:  
-- *What’s the issue?* Describe the current state of the problem.  
-- *What do we want to achieve?* Define the desired outcome.  
+- *"What’s the issue?"* Describe the current state of the problem.  
+- *"What do we want to achieve?"* Define the desired outcome.  
 
 **Tool**: Complete the "Discover" step in the DFA Template.  
 **Output**: Current Situation  
 
-**Transition to Focus**:  
-*“With a clearer understanding of the problem and what we hope to achieve, let’s determine which areas to prioritise and tackle first.”*
+**Transition**:  
+*“With a clearer understanding of the problem, let’s focus on identifying key priorities to address first.”*
 
 ---
 
 #### **2. Focus (20 Minutes)**  
 **Input**: Current Situation  
-**Purpose**: Identify and prioritise critical action areas.  
+**Purpose**: Identify and prioritise the most critical actions.  
 
 **Instructions**:  
-- Review the insights from the Discover step and determine the most critical areas for immediate action. Focus on elements that can deliver maximum impact within a short timeframe.  
-- Use dot voting to identify critical areas for action.
-- Use the prompts to facilitate prioritisation and keep the focus on achievable, high-impact areas.  
+- Review the insights from Discover to pinpoint the highest-priority areas for immediate action.  
+- Use dot voting or discussion to focus on the most impactful elements.  
 
 **Prompts**:  
-- *What’s most important to address first?* Prioritise the most critical components.  
-- *What can we realistically achieve now?* Focus on actions that are feasible in the short term.  
-- *What’s the impact of addressing this now?* Assess the immediate benefit of tackling this priority.  
+- *"What’s most important to address first?"* Prioritise the most critical components.  
+- *"What can we realistically achieve now?"* Focus on actions that are feasible in the short term.  
+- *"What’s the impact of addressing this now?"* Assess the immediate benefit of tackling this priority.  
 
-**Tool**: Use the "Focus" step in the DFA Template to narrow down focus.  
+**Tool**: Use the "Focus" step in the DFA Template.  
 **Output**: Key Priority  
 
-**Transition to Act**:  
-*“Now that we’ve identified our top priority, let’s translate it into a clear and actionable plan to begin making progress right away.”*
+**Transition**:  
+*“Now that we’ve identified our top priority, let’s develop a concrete action plan.”*
 
 ---
 
 #### **3. Act (20 Minutes)**  
 **Input**: Key Priority  
-**Purpose**: Develop a clear, actionable plan.  
+**Purpose**: Create a clear, actionable plan.  
 
 **Instructions**:  
-- Transform your prioritised insights into a concrete plan. Discuss what can be done immediately, assign roles, and ensure the steps are practical and achievable.  
-- Assign clear ownership for each action step to avoid ambiguity.
-- Use the prompts to guide discussions and craft a detailed, actionable plan that participants can confidently implement.  
+- Convert the identified priority into a concrete action plan. Assign roles, define immediate actions, and ensure steps are achievable.  
+- Ensure clear ownership for each task.  
 
 **Prompts**:  
-- *What one step can we take immediately?* Identify the first step that can be taken without delay.  
-- *What resources or support do we need?* Define the necessary tools, people, or resources.  
-- *How will we measure progress?* Establish measurable success criteria with clear metrics.  
-- *What will success look like?* Define tangible outcomes that signal progress or completion, ensuring alignment with the core objectives.  
+- *"What one step can we take immediately?"* Identify the first step that can be taken without delay.  
+- *"What resources or support do we need?"* Define the necessary tools, people, or resources.  
+- *"How will we measure progress?"* Establish measurable success criteria with clear metrics.  
+- *"What will success look like?"* Define tangible outcomes that signal progress or completion, ensuring alignment with the core objectives.  
 
 **Tool**: Complete the "Act" step in the DFA Template.  
 **Output**: Action Plan  
 
-**Transition to Feedback**:  
-*“With our plan ready, it’s time to put it into action. Once implemented, we’ll gather feedback to evaluate its effectiveness and refine where necessary.”*
+**Transition**:  
+*“With our action plan in place, it’s time to implement. Afterward, we’ll gather feedback to refine our approach.”*
 
 ---
 
 ### **Next Steps**  
-Once the action plan is underway, revisit the DFA Framework regularly to refine priorities or adjust the course as needed. This iterative approach ensures continued progress and improvement.
+Once the action plan is in progress, revisit the DFA Framework regularly to refine priorities and make adjustments as needed. This iterative process ensures ongoing improvement.
 
-**Transition to Gathering Feedback**:  
-*“After implementing the plan, we’ll reflect on the results to celebrate successes, identify improvements, and continue building on what we’ve accomplished.”*
+**Transition to Feedback**:  
+*“Once the plan is implemented, we’ll reflect on the results, celebrate successes, and adjust where needed.”*
 
 ---
 
 ### **Gathering Feedback**  
-**Purpose**: Reflect on outcomes after implementing the action plan.  
+**Purpose**: Reflect on outcomes and refine the approach.  
 
 **Instructions**:  
-- Encourage open and honest feedback to identify what worked, what didn’t, and what could be improved. Use this input to refine future plans and adapt as necessary.  
+- Encourage open feedback to assess what worked, what didn’t, and areas for improvement. Use this input to adjust the plan.  
 
 **Prompts**:  
-- *What worked well?* Identify successes.  
-- *What didn’t work?* Assess challenges and areas for improvement.  
-- *How can we refine the plan?* Adjust based on feedback and insights.  
+- *"What worked well?"* Identify successes.  
+- *"What didn’t work?"* Assess challenges and areas for improvement.  
+- *"What can we do differently next time to improve the process?"* Gather insights on potential improvements for future sessions.  
+- *"How can we refine the plan?"* Adjust based on feedback and insights.  
 
 **Closing Reflection**:  
-*“Feedback is key to progress. By reflecting on today’s outcomes, we can continue to refine our approach and ensure we’re moving in the right direction.”*
+*“Feedback helps us continue improving and ensures we stay on track with our goals.”*
 
 ---
 
-### **Features**
+### **Features**  
 - **Duration**: 60 minutes (20 minutes per step).  
 - **Audience**: Suitable for individuals, teams, or workshops.  
-- **Output**: A focused, actionable plan ready for immediate implementation.  
+- **Output**: A focused, actionable plan for immediate implementation.  
 
 ---
 
@@ -153,7 +154,7 @@ Use this template to guide your session:
 
 ---
 
-### **Visual Representation Model**
+### **Visual Representation**
 The DFA Framework is depicted as a **target diagram** with concentric circles:
 - Outer Circle: **Discover** (Blue, Magnifying Glass Icon).  
 - Middle Circle: **Focus** (Green, Target Icon).  
@@ -191,16 +192,14 @@ The transitions between steps are designed to be smooth, but you can adjust them
 - Instead of directly transitioning to the **Focus** step, you might choose to conduct a brief recap of the **Discover** stage before moving forward.
 - If your group needs more time to reach consensus or clarity, feel free to extend certain sections of the framework and adjust subsequent steps accordingly.
 
-**Outcome**: This flexibility allows you to adapt the DFA Framework to different environments, goals, and group dynamics, ensuring that it remains an effective tool no matter the context.
-
 ---
 
-### **Getting Started**
+### **Getting Started**  
 1. Clone this repository:  
    ```bash
    git clone https://github.com/uijaz/DFA-Framework.git
    ```  
-2. Explore the provided downloadable PDF templates and worksheets in the `resources` folder.  [TODO]
+2. Explore the provided downloadable PDFs in the `resources` folder. [TODO]  
 3. Follow the 3-step process in a 60-minute session or at your own pace.  
 
 ---
@@ -217,24 +216,18 @@ DFA-Framework/
 
 ---
 
-### **License**
-This project is licensed under the **Creative Commons Attribution 4.0 (CC BY 4.0)** for documentation and templates. See the [LICENSE](./LICENSE) file for details.
+### **License**  
+This project is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**. See [LICENSE](./LICENSE) for details.
 
 ---
 
-### **Acknowledgements**
-Thank you to all contributors and testers of this framework.
-
----
-
-### **Contributing**
+### **Contributing**  
 Contributions are welcome! To contribute:  
 1. Fork the repository.  
-2. Create a new branch for your feature or fix.  
-3. Submit a pull request with a clear description of your changes.
-4. Contact me below to start the conversation.
+2. Create a new branch.  
+3. Submit a pull request with a description of your changes.  
 
 ---
 
-### **Contact**
-For questions or feedback, feel free to reach out via GitHub Issues or connect on [LinkedIn](https://www.linkedin.com/in/uijaz/). 
+### **Contact**  
+For questions or feedback, reach out via GitHub Issues or [LinkedIn](https://www.linkedin.com/in/uijaz/).
