@@ -182,25 +182,27 @@ Add Examples [TODO]
 
 ### **For Experienced Facilitators: Customising the DFA Framework**
 
-The DFA Framework is designed to be adaptable, allowing experienced facilitators to adjust the process to suit their specific needs. Below are some tips for customising the framework:
+The DFA Framework is designed to be adaptable, allowing experienced facilitators to adjust the process to suit their specific needs. Here are some tips for customising the framework:
 
 #### **Customising Prompts**  
-Experienced facilitators may have their own preferred prompts or techniques. Feel free to replace the suggested questions with those that best align with the group’s goals and dynamics. For example, instead of asking *“What’s the issue?”*, you might ask more detailed questions like *“What root causes are contributing to this issue?”* or *“What assumptions are we making?”*.
+Feel free to replace the suggested questions with prompts that better align with your group’s goals and dynamics. For example, instead of asking *“What do we want to achieve?”*, try asking *“What would you like to have happen?”* or *“What barriers might we need to overcome to achieve this?”*.
 
 #### **Adjusting Time Slots**  
-While the DFA Framework is designed for a 60-minute session, you can adjust the time allocations as needed. For instance:
+While the DFA Framework is typically designed for a 60-minute session, you can modify the time allocations as needed. For instance:
 - **If you have more time**: Consider expanding each step to allow for deeper discussions or additional activities (e.g., group brainstorming, role-playing, or ideation).
-- **If you have less time**: Condense the steps by focusing on the most critical questions and streamlining the decision-making process. 
+- **If you have less time**: Condense the steps by focusing on the most critical questions and streamlining decision-making.
+- **If the problem is complex**: For complex issues, consider dedicating a separate session to each stage on different days to allow for deeper exploration.
 
 #### **Advanced Facilitation Techniques**  
-- **Dot Voting & Prioritisation**: If your group is large, consider using online tools for voting or prioritisation, such as Mentimeter or Miro, to ensure everyone’s input is captured and visible.
-- **Breakout Groups**: For larger teams or workshops, split the group into smaller breakout groups during the **Discover** or **Focus** stages. This can help generate more diverse insights and allow for more personalised discussions.
-- **Time Management**: Experienced facilitators may want to set stricter time limits for each step, particularly in larger sessions, to ensure focus and avoid long-winded discussions. Use a timer to keep track and signal transitions clearly.
+- **Dot Voting & Prioritisation**: For larger groups, use tools like Mentimeter, Miro, or MURAL for voting or prioritisation, ensuring everyone’s input is captured and visible.
+- **Breakout Groups**: If you’re working with a larger team, split the group into smaller breakout sessions during the **Discover** or **Focus** stages. This can help generate more diverse insights and provide a more personalised experience.
+- **Time Management**: Set stricter time limits for each step, especially in larger sessions, to keep discussions focused and on track. Use a timer to manage transitions.
+- **Incorporate Additional Tools**: Depending on the session's needs, bring in tools like Liberating Structures or ORSC to enhance group alignment and decision-making.
 
 #### **Flexibility in Transitions**  
-The transitions between steps are designed to be smooth, but you can adjust them based on your own style and the group’s needs. For example:
-- Instead of directly transitioning to the **Focus** step, you might choose to conduct a brief recap of the **Discover** stage before moving forward.
-- If your group needs more time to reach consensus or clarity, feel free to extend certain sections of the framework and adjust subsequent steps accordingly.
+While transitions between steps are designed to be smooth, feel free to adjust them based on your style and the group’s needs. For example:
+- Instead of directly moving to the **Focus** step, consider conducting a quick recap of the **Discover** stage to ensure alignment and clarity.
+- If your group needs more time to reach consensus, extend certain steps and adjust subsequent stages as necessary to maintain flow.
 
 ---
 
@@ -227,7 +229,7 @@ DFA-Framework/
 ---
 
 ### **License**  
-This project is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**. See [LICENSE](./LICENSE) for details.
+This project is licensed under **Creative Commons Attribution 4.0 (CC BY 4.0)**. See [LICENSE](./LICENSE.md) for details.
 
 ---
 
