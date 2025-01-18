@@ -144,14 +144,14 @@ Use this template to guide your session:
 
 ---
 
-### **Visual Representation**
+### **Visual Representation Model**
 The DFA Framework is depicted as a **target diagram** with concentric circles:
 - Outer Circle: **Discover** (Blue, Magnifying Glass Icon).  
 - Middle Circle: **Focus** (Green, Target Icon).  
 - Inner Circle: **Act** (Orange, Arrow Icon).  
-- Centre Circle: **Goal** (Yellow, Star Icon).  
+- Centre Circle: **Action Plan** (Yellow, Star Icon).  
 
-![DFA Framework](./resources/DFA-Framework.png)
+![DFA Framework Model](./resources/DFA-framework.png)
 
 ---
 
