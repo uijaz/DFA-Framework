@@ -7,7 +7,7 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 
 ### **Why Choose DFA?**  
 - Easy to use, no extensive training required.  
-- Structured steps with prompts for actionable inquiry.  
+- Structured stages with prompts for actionable inquiry.  
 - Bridges the gap between problem analysis and concrete actions.  
 - Encourages clarity, measurable outcomes, and practical results.  
 - Promotes collaboration, alignment, and accountability.
@@ -40,7 +40,7 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 
 ---
 
-### **Steps**
+### **Stages**
 
 #### **1. Discover (20 Minutes)**  
 **Input**: Problem Statement  
@@ -54,7 +54,7 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 - *"What’s the issue?"* Describe the current state of the problem.  
 - *"What do we want to achieve?"* Define the desired outcome.  
 
-**Tool**: Complete the "Discover" step in the DFA Template.  
+**Tool**: Complete the "Discover" stage in the DFA Template.  
 **Output**: Current Situation  
 
 **Transition**:  
@@ -75,7 +75,7 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 - *"What can we realistically achieve now?"* Focus on actions that are feasible in the short term.  
 - *"What’s the impact of addressing this now?"* Assess the immediate benefit of tackling this priority.  
 
-**Tool**: Use the "Focus" step in the DFA Template.  
+**Tool**: Use the "Focus" stage in the DFA Template.  
 **Output**: Key Priority  
 
 **Transition**:  
@@ -97,7 +97,7 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 - *"How will we measure progress?"* Establish measurable success criteria with clear metrics.  
 - *"What will success look like?"* Define tangible outcomes that signal progress or completion, ensuring alignment with the core objectives.  
 
-**Tool**: Complete the "Act" step in the DFA Template.  
+**Tool**: Complete the "Act" stage in the DFA Template.  
 **Output**: Action Plan  
 
 **Transition**:  
@@ -131,7 +131,7 @@ Once the action plan is in progress, revisit the DFA Framework regularly to refi
 ---
 
 ### **Features**  
-- **Duration**: 60 minutes (20 minutes per step).  
+- **Duration**: 60 minutes (20 minutes per stage).  
 - **Audience**: Suitable for individuals, teams, or workshops.  
 - **Output**: A focused, actionable plan for immediate implementation.  
 
@@ -140,7 +140,7 @@ Once the action plan is in progress, revisit the DFA Framework regularly to refi
 ### **DFA Framework Template**
 Use this template to guide your session:
 
-| Steps    | Inputs            | Questions                                 | Answers | Outputs           | Artifacts | Notes |
+| Stages   | Inputs            | Questions                                 | Answers | Outputs           | Artifacts | Notes |
 |----------|-------------------|-------------------------------------------|---------|-------------------|-----------|-------|
 | Discover | Problem Statement | What’s the issue?                         |         | Current Situation |           |       |
 |          |                   | What do we want to achieve?               |         |                   |           |       |
@@ -155,15 +155,15 @@ Use this template to guide your session:
 ---
 
 ### **Visual Representation**  
-The DFA Framework is illustrated as a **target diagram** with concentric circles, showing the flow of steps, inputs, and outputs:
+The DFA Framework is illustrated as a **target diagram** with concentric circles, showing the flow of stages, inputs, and outputs:
 
-- **Outer Circle (Blue):** **Discover** step (Magnifying Glass Icon).  
+- **Outer Circle (Blue):** **Discover** stage (Magnifying Glass Icon).  
   - Input: *Problem Statement* (White) → Output: *Current Situation* (Blue).
 
-- **Middle Circle (Green):** **Focus** step (Target Icon).  
+- **Middle Circle (Green):** **Focus** stage (Target Icon).  
   - Input: *Current Situation* (Blue) → Output: *Key Priorities* (Green).
 
-- **Inner Circle (Orange):** **Act** step (Lightning Bolt Icon).  
+- **Inner Circle (Orange):** **Act** stage (Lightning Bolt Icon).  
   - Input: *Key Priorities* (Green) → Output: *Action Plan* (Orange).
 
 - **Centre Circle (Yellow):** Final **Action Plan (Orange)** (Star Icon).  
@@ -171,7 +171,7 @@ The DFA Framework is illustrated as a **target diagram** with concentric circles
 ![DFA Framework Model](./resources/DFA-framework.png)
 
 **Facilitator Tip:**  
-Leverage the target diagram as a **visual facilitation tool** alongside or in place of the **DFA Framework Template**. As participants progress through each step, capture their inputs and outputs directly on the diagram using sticky notes or markers. For virtual sessions, use digital tools like Miro or MURAL to enable real-time collaboration. This method keeps the group engaged, enhances clarity, and creates a visual record of the session's progress.
+Leverage the target diagram as a **visual facilitation tool** alongside or in place of the **DFA Framework Template**. As participants progress through each stage, capture their inputs and outputs directly on the diagram using sticky notes or markers. For virtual sessions, use digital tools like Miro or MURAL to enable real-time collaboration. This method keeps the group engaged, enhances clarity, and creates a visual record of the session's progress.
 
 ---
 
@@ -189,20 +189,20 @@ Feel free to replace the suggested questions with prompts that better align with
 
 #### **Adjusting Time Slots**  
 While the DFA Framework is typically designed for a 60-minute session, you can modify the time allocations as needed. For instance:
-- **If you have more time**: Consider expanding each step to allow for deeper discussions or additional activities (e.g., group brainstorming, role-playing, or ideation).
-- **If you have less time**: Condense the steps by focusing on the most critical questions and streamlining decision-making.
+- **If you have more time**: Consider expanding each stage to allow for deeper discussions or additional activities (e.g., group brainstorming, role-playing, or ideation).
+- **If you have less time**: Condense the stages by focusing on the most critical questions and streamlining decision-making.
 - **If the problem is complex**: For complex issues, consider dedicating a separate session to each stage on different days to allow for deeper exploration.
 
 #### **Advanced Facilitation Techniques**  
 - **Dot Voting & Prioritisation**: For larger groups, use tools like Mentimeter, Miro, or MURAL for voting or prioritisation, ensuring everyone’s input is captured and visible.
 - **Breakout Groups**: If you’re working with a larger team, split the group into smaller breakout sessions during the **Discover** or **Focus** stages. This can help generate more diverse insights and provide a more personalised experience.
-- **Time Management**: Set stricter time limits for each step, especially in larger sessions, to keep discussions focused and on track. Use a timer to manage transitions.
+- **Time Management**: Set stricter time limits for each stage, especially in larger sessions, to keep discussions focused and on track. Use a timer to manage transitions.
 - **Incorporate Additional Tools**: Depending on the session's needs, bring in tools like Liberating Structures or ORSC to enhance group alignment and decision-making.
 
 #### **Flexibility in Transitions**  
-While transitions between steps are designed to be smooth, feel free to adjust them based on your style and the group’s needs. For example:
-- Instead of directly moving to the **Focus** step, consider conducting a quick recap of the **Discover** stage to ensure alignment and clarity.
-- If your group needs more time to reach consensus, extend certain steps and adjust subsequent stages as necessary to maintain flow.
+While transitions between stages are designed to be smooth, feel free to adjust them based on your style and the group’s needs. For example:
+- Instead of directly moving to the **Focus** stage, consider conducting a quick recap of the **Discover** stage to ensure alignment and clarity.
+- If your group needs more time to reach consensus, extend certain stages and adjust subsequent stages as necessary to maintain flow.
 
 ---
 
@@ -212,7 +212,7 @@ While transitions between steps are designed to be smooth, feel free to adjust t
    git clone https://github.com/uijaz/DFA-Framework.git
    ```  
 2. Explore the provided downloadable PDFs in the `resources` folder. [TODO]  
-3. Follow the 3-step process in a 60-minute session or at your own pace.  
+3. Follow the 3-stage process in a 60-minute session or at your own pace.  
 
 ---
 
