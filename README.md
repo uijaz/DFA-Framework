@@ -168,13 +168,16 @@ The DFA Framework is illustrated as a **target diagram** with concentric circles
 - **Inner Circle (Orange):** **Act** stage (Lightning Bolt Icon).  
   - Input: *Key Priorities* (Green) → Output: *Action Plan* (Orange).
 
-- **Centre Circle (Yellow):** Final **Action Plan (Orange)** (Star Icon).  
+- **Centre Circle (Yellow):** Final **Action Plan (Orange)** (4 Point Star Icon).  
 
-![DFA Framework Visual Diagram](./resources/DFA-framework.png)
+![DFA Framework Visual Diagram](./resources/DFA-diagram.png)
+
 The Visual Diagram serves as a quick reference guide and can be used as a facilitation tool during the session to track progress visually.
 
 **Facilitator Tip:**  
 Leverage the target diagram as a **visual facilitation tool** alongside or in place of the **DFA Framework Template**. As participants progress through each stage, capture their inputs and outputs directly on the diagram using sticky notes or markers. For virtual sessions, use digital tools like Miro or MURAL to enable real-time collaboration. This method keeps the group engaged, enhances clarity, and creates a visual record of the session's progress.
+
+![DFA Framework Visual Diagram alongside Template](./resources/DFA-diagram-template.png)
 
 ---
 
