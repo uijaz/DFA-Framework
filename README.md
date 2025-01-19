@@ -1,14 +1,15 @@
 ### **Discover-Focus-Act (DFA) Framework**
 
 ### **Overview**  
-The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for problem-solving and creating actionable plans. It guides individuals, teams, or workshops through three clear stages: Discover, Focus, and Act, ensuring **clarity**, **focus**, and **measurable results**. Ideal for sessions of 60 minutes or divided into shorter segments, DFA drives progress efficiently.
+The **Discover-Focus-Act (DFA) Framework** is a simple, effective approach for problem-solving and creating actionable plans. It guides individuals, teams, or workshops through three clear stages: Discover, Focus, and Act, ensuring **clarity**, **focus**, and **measurable results**. Ideal for sessions of 60 minutes or divided into shorter segments, DFA drives progress effectively.
 
 ---
 
 ### **Why Choose DFA?**  
+- No prior expertise required.
 - Easy to use, no extensive training required.  
 - Structured stages with prompts for actionable inquiry.  
-- Bridges the gap between problem analysis and concrete actions.  
+- Bridges the gap between identifying problems and taking concrete action.  
 - Encourages clarity, measurable outcomes, and practical results.  
 - Promotes collaboration, alignment, and accountability.
 
@@ -23,20 +24,21 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 ---
 
 ### **Icebreaker Activity (5 Minutes - Optional)**  
-**Purpose**: Energise participants and clarify the problem.  
+**Purpose**: Energise participants and provide clarity on the problem.  
 **Instructions**:  
-- Ask: *“If this problem were a headline in tomorrow’s newspaper, what would it say?”*  
-- Participants share their headlines (funny, serious, or creative).  
-- Agree on a headline that best captures the essence of the problem.  
+- Ask the group: *“If this problem were a headline in tomorrow’s newspaper, what would it say?”*  
+- Encourage a mix of responses—funny, serious, or creative.  
+- As a group, agree on a headline that best captures the essence of the problem.  
 
-**Note**: This activity is entirely optional and can be skipped if you're short on time or prefer a more focused start to the session.  
+**Note**: This activity is optional. If you're pressed for time or prefer a more focused start, you can skip this.  
 
-**Time-saving Alternative**: If pressed for time, participants can silently brainstorm and write down a problem statement.
+**Time-saving Alternative**:  
+If time is limited, participants can brainstorm silently and write down a problem statement, which will still help clarify the issue.  
 
 **Output**: Problem Statement  
 
 **Transition**:  
-*“Now that we have our collective Problem Statement, let’s dive into understanding it better and defining what success looks like.”*
+*“Now that we have a shared Problem Statement, let’s dive deeper into understanding it and defining what success looks like.”*
 
 ---
 
@@ -54,7 +56,7 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 - *"What’s the issue?"* Describe the current state of the problem.  
 - *"What do we want to achieve?"* Define the desired outcome.  
 
-**Tool**: Complete the "Discover" stage in the DFA Template.  
+**Resource**: Complete the "Discover" stage in the DFA Template or use alongside the DFA Framework Visual Diagram.  
 **Output**: Current Situation  
 
 **Transition**:  
@@ -75,7 +77,7 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 - *"What can we realistically achieve now?"* Focus on actions that are feasible in the short term.  
 - *"What’s the impact of addressing this now?"* Assess the immediate benefit of tackling this priority.  
 
-**Tool**: Use the "Focus" stage in the DFA Template.  
+**Resource**: Complete the "Focus" stage in the DFA Template or use alongside the DFA Framework Visual Diagram.  
 **Output**: Key Priority  
 
 **Transition**:  
@@ -97,7 +99,7 @@ The **Discover-Focus-Act (DFA) Framework** is a simple, effective tool for probl
 - *"How will we measure progress?"* Establish measurable success criteria with clear metrics.  
 - *"What will success look like?"* Define tangible outcomes that signal progress or completion, ensuring alignment with the core objectives.  
 
-**Tool**: Complete the "Act" stage in the DFA Template.  
+**Resource**: Complete the "Act" stage in the DFA Template or use alongside the DFA Framework Visual Diagram.  
 **Output**: Action Plan  
 
 **Transition**:  
@@ -154,7 +156,7 @@ Use this template to guide your session:
 
 ---
 
-### **Visual Representation**  
+### **DFA Framework Visual Diagram**  
 The DFA Framework is illustrated as a **target diagram** with concentric circles, showing the flow of stages, inputs, and outputs:
 
 - **Outer Circle (Blue):** **Discover** stage (Magnifying Glass Icon).  
@@ -168,7 +170,8 @@ The DFA Framework is illustrated as a **target diagram** with concentric circles
 
 - **Centre Circle (Yellow):** Final **Action Plan (Orange)** (Star Icon).  
 
-![DFA Framework Model](./resources/DFA-framework.png)
+![DFA Framework Visual Diagram](./resources/DFA-framework.png)
+The Visual Diagram serves as a quick reference guide and can be used as a facilitation tool during the session to track progress visually.
 
 **Facilitator Tip:**  
 Leverage the target diagram as a **visual facilitation tool** alongside or in place of the **DFA Framework Template**. As participants progress through each stage, capture their inputs and outputs directly on the diagram using sticky notes or markers. For virtual sessions, use digital tools like Miro or MURAL to enable real-time collaboration. This method keeps the group engaged, enhances clarity, and creates a visual record of the session's progress.
